@@ -1,4 +1,4 @@
-# Pruning UNET Decoder Layers
+# Is pruning worth it ?
 
 This project visualizes the feature activations of convolutional features in a UNET decoder layer, comparing the activations before and after pruning.
 
